@@ -7,8 +7,8 @@ Projeto para um teste mão na massa para uma vaga de Desenvolvedor - PL/SQL e Ja
 - Utilizado Padrão REST.
 - Projeto feito em inglês.
 - Foi utilizado o banco de dados H2 [application-test](http://localhost:8080/h2-console/).
-- Arquivo com os inserts na base de dados [import.sql]().
-- As imagens com os testes feito via Postman[assets]().
+- Arquivo com os inserts na base de dados [import.sql](https://github.com/marcelo-mmdev/Iniflex-test/blob/main/iniflex/src/main/resources/import.sql).
+- As imagens com os testes feito via Postman [assets](https://github.com/marcelo-mmdev/Iniflex-test/tree/main/iniflex/assets).
 
 # Tecnologias utilizadas
 
