@@ -9,7 +9,9 @@ public class IniflexApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(IniflexApplication.class, args);
 		System.out.println("*****************************************************");
-		System.out.println("Aplicação Rodando com Sucesso!!! ");
+		System.out.println("Application Running Success!!! ");
+		System.out.println("*****************************************************");
+		System.out.println("O SENHOR é o meu pastor, nada me faltará.\n" + "Salmos 23:1");
 		System.out.println("*****************************************************");
 	}
 
